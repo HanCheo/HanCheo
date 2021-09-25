@@ -1,6 +1,6 @@
 ## HanCheol-Kim
 
-☑️ **WEB FRONT-END**   .gi
+☑️ **WEB FRONT-END**
 ☑️ Like Coffee   
 ☑️ Like listen Music
 
