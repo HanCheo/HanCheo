@@ -12,9 +12,7 @@
   <img src="https://img.shields.io/badge/-Express-000000?&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/-Postgresql-4169E1?&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/-Elastic Stack-005571?&logo=Elastic Stack&logoColor=white">
   <img src="https://img.shields.io/badge/-NGINX-009639?&logo=NGINX&logoColor=white">
 
-  <img src="https://img.shields.io/badge/-VSCode
--0052CC?&logo=Visual Studio Code
-&logoColor=white"> <img src="https://img.shields.io/badge/-Slack-4A154B?&logo=Slack&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-VSCode-0052CC?&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/-Slack-4A154B?&logo=Slack&logoColor=white"> 
  <img src="https://img.shields.io/badge/-Notion-000000?&logo=Notion&logoColor=white"> 
   <img src="https://img.shields.io/badge/-Github-000000?&logo=Github&logoColor=white"> 
   <img src="https://img.shields.io/badge/-Bitbucket-0052CC?&logo=Bitbucket&logoColor=white">
