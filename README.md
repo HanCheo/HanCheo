@@ -1,4 +1,4 @@
-## HanCheol-Kim
+## HanCheol-Kim <img src="https://emoji.slack-edge.com/T02HJLNUN9J/60fps_parrot/2ebed6fd488cf610.gif" width=40 />
 
 - **WEB FRONT-END**   
 - Like [Coffee, Listen Music]
