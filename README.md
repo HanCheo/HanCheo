@@ -2,6 +2,7 @@
 
 - **WEB FRONT-END**   
 - Like [Coffee, Listen Music]
+- [Resume](https://valiant-help-ab5.notion.site/HanCheol-Kim-748a220c402647feafd533ac52a4449f) [Blog](https://hanch-dev.tistory.com/)
 
 ## Stack & Tool
  <img src="https://img.shields.io/badge/-Typescript-4075bb?&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/-Babel-F9DC3E?&logo=Babel&logoColor=white"> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?&logo=Webpack&logoColor=black"> <img src="https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=black">   
