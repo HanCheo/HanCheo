@@ -6,13 +6,14 @@
 [`Resume`](https://valiant-help-ab5.notion.site/HanCheol-Kim-748a220c402647feafd533ac52a4449f) [`Blog`](https://hanch-dev.tistory.com/)
 
 ## Stack & Tool
- <img src="https://img.shields.io/badge/-Typescript-4075bb?&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/-Babel-F9DC3E?&logo=Babel&logoColor=white"> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?&logo=Webpack&logoColor=black"> <img src="https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=black">   
- <img src="https://img.shields.io/badge/-Go-00ADD8?&logo=Go&logoColor=white">  <img src="https://img.shields.io/badge/-PHP-777BB4?&logo=PHP&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-Express-000000?&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/-Postgresql-4169E1?&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/-Elastic Stack-005571?&logo=Elastic Stack&logoColor=white">
-  <img src="https://img.shields.io/badge/-NGINX-009639?&logo=NGINX&logoColor=white">.  
+ <img src="https://img.shields.io/badge/-Typescript-4075bb?&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?&logo=Webpack&logoColor=black"> <img src="https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=black">  <img src="https://img.shields.io/badge/-Graphql-E10098?&logo=GraphQL&logoColor=white">  <img src="https://img.shields.io/badge/-Express-000000?&logo=Express&logoColor=white">   
+ <img src="https://img.shields.io/badge/-Go-00ADD8?&logo=Go&logoColor=white">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/-Postgresql-4169E1?&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/-Elastic Stack-005571?&logo=Elastic Stack&logoColor=white">
+  <img src="https://img.shields.io/badge/-NGINX-009639?&logo=NGINX&logoColor=white">  
   <img src="https://img.shields.io/badge/-VSCode-0052CC?&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-000000?&logo=Github&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-Bitbucket-0052CC?&logo=Bitbucket&logoColor=white">
+  <img src="https://img.shields.io/badge/-AWS EC2-FF9900?&logo=Amazon AWS&logoColor=white"> 
+
 
 ## History   
 - class101 <sub><sup>Software Engineer (2021.12 ~ )</sup></sub>  
