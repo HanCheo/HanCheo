@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-Bitbucket-0052CC?&logo=Bitbucket&logoColor=white">
 
 ## History   
-- class101 <sub><sup>FE (2021.12 ~ )</sup></sub>  
+- class101 <sub><sup>Software Engineer (2021.12 ~ )</sup></sub>  
 - Deepromeet - 10th <sub><sup>FE (2021.09 ~ 2021.12)</sup></sub>   
 - 우아한형제들 - 우아한테크캠프 4기 <sub><sup>FE intern (2021.07 ~ 2021.08)</sup></sub>   
 - 아이언트레인 <sub><sup>Web FullStack (2019.12 ~ 2020.10)</sup></sub>
