@@ -7,9 +7,7 @@
 
 ## Stack & Tool
  <img src="https://img.shields.io/badge/-Typescript-4075bb?&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?&logo=Webpack&logoColor=black"> <img src="https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=black">  <img src="https://img.shields.io/badge/-Graphql-E10098?&logo=GraphQL&logoColor=white">  <img src="https://img.shields.io/badge/-Express-000000?&logo=Express&logoColor=white">   
- <img src="https://img.shields.io/badge/-Go-00ADD8?&logo=Go&logoColor=white">
-<img src="https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/-Postgresql-4169E1?&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/-Elastic Stack-005571?&logo=Elastic Stack&logoColor=white">
-  <img src="https://img.shields.io/badge/-NGINX-009639?&logo=NGINX&logoColor=white">  
+<img src="https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/-Postgresql-4169E1?&logo=PostgreSQL&logoColor=white"> 
   <img src="https://img.shields.io/badge/-VSCode-0052CC?&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-000000?&logo=Github&logoColor=white"> 
   <img src="https://img.shields.io/badge/-AWS EC2-FF9900?&logo=Amazon AWS&logoColor=white"> 
