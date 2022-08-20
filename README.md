@@ -25,7 +25,6 @@
 ## HanCheol-Kim <img src="https://emoji.slack-edge.com/T02HJLNUN9J/60fps_parrot/2ebed6fd488cf610.gif" width=40 />
 
 - **WEB FRONT-END**   
-- [WorkProfile](https://github.com/moby-101)
 - Like [Coffee, Listen Music]
 - Info : 
 [`Resume`](https://valiant-help-ab5.notion.site/HanCheol-Kim-748a220c402647feafd533ac52a4449f) [`Blog`](https://hanch-dev.tistory.com/)
