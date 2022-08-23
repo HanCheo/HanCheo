@@ -1,4 +1,7 @@
 
+
+[![Hancheo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hancheo)](https://github.com/anuraghazra/github-readme-stats)
+
 <table>
   <tr>
     <td align="center">
