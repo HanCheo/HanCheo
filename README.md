@@ -25,8 +25,7 @@
 
 - **WEB FRONT-END**   
 - Like [Coffee, Listen Music]
-- Info : 
-[`Resume`](https://valiant-help-ab5.notion.site/HanCheol-Kim-748a220c402647feafd533ac52a4449f) [`Blog`](https://hanch-dev.tistory.com/)
+- Info : [`Blog`](https://mobilog.vercel.app/)
 
 ## Stack & Tool
  <img src="https://img.shields.io/badge/-Typescript-4075bb?&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?&logo=Webpack&logoColor=black"> <img src="https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=black">  <img src="https://img.shields.io/badge/-Graphql-E10098?&logo=GraphQL&logoColor=white">  <img src="https://img.shields.io/badge/-Express-000000?&logo=Express&logoColor=white">   
