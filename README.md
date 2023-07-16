@@ -25,7 +25,7 @@
 
 - **WEB FRONT-END**   
 - Like [Coffee, Listen Music]
-- Info : [`Blog`](https://mobilog.vercel.app/)
+- Info : [`Blog`](https://mobilog.me)
 
 ## Stack & Tool
  <img src="https://img.shields.io/badge/-Typescript-4075bb?&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?&logo=Webpack&logoColor=black"> <img src="https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=black">  <img src="https://img.shields.io/badge/-Graphql-E10098?&logo=GraphQL&logoColor=white">  <img src="https://img.shields.io/badge/-Express-000000?&logo=Express&logoColor=white">   
