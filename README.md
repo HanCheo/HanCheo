@@ -23,7 +23,7 @@
 
 ## HanCheol-Kim <img src="https://emoji.slack-edge.com/T02HJLNUN9J/60fps_parrot/2ebed6fd488cf610.gif" width=40 />
 
-- **WEB FRONT-END**   
+- **Software Engineer**   
 - Like [Coffee, Listen Music]
 
 ## Stack & Tool
