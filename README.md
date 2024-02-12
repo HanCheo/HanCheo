@@ -38,7 +38,6 @@
 - class101 <sub><sup>Software Engineer (2021.12 ~ )</sup></sub>  
 - Deepromeet - 10th <sub><sup>FE (2021.09 ~ 2021.12)</sup></sub>   
 - 우아한형제들 - 우아한테크캠프 4기 <sub><sup>FE intern (2021.07 ~ 2021.08)</sup></sub>   
-- 아이언트레인 <sub><sup>Web FullStack (2019.12 ~ 2020.10)</sup></sub>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhancheo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=cliqz.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
