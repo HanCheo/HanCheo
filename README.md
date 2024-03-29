@@ -35,7 +35,7 @@
 
 
 ## History   
-- class101 <sub><sup>Software Engineer (2021.12 ~ )</sup></sub>  
+- class101 <sub><sup>Software Engineer (2021.12 ~ 2024.03)</sup></sub>  
 - Deepromeet - 10th <sub><sup>FE (2021.09 ~ 2021.12)</sup></sub>   
 - 우아한형제들 - 우아한테크캠프 4기 <sub><sup>FE intern (2021.07 ~ 2021.08)</sup></sub>   
 
