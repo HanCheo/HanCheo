@@ -35,7 +35,7 @@ FrontEnd: <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoCo
 
 FrontEnd State Management: <img src="https://img.shields.io/badge/-Recoil-3578E5?logo=recoil&logoColor=white"/> <img src="https://img.shields.io/badge/-Apollo Client-311C87?logo=apollographql&logoColor=white"/> <img src="https://img.shields.io/badge/-React Query-FF4154?logo=reactquery&logoColor=white"/> <img src="https://img.shields.io/badge/-Jotai-FFFFFF"/>
 
-Backend: <img src="https://img.shields.io/badge/-springboot-6DB33F?logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/-nodedotjs-339933?logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/-Apollo Server-311C87?logo=apollographql&logoColor=white"/>
+Backend: <img src="https://img.shields.io/badge/-springboot-6DB33F?logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/-nodejs-339933?logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/-Apollo Server-311C87?logo=apollographql&logoColor=white"/>
 
 API: <img src="https://img.shields.io/badge/-RestFul-000000"/> <img src="https://img.shields.io/badge/-graphql-E10098?logo=graphql&logoColor=white"/>
 
