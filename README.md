@@ -47,18 +47,18 @@ Message Queue: <img src="https://img.shields.io/badge/-Kafka-231F20?logo=apachek
 
 Log/Monitoring: <img src="https://img.shields.io/badge/-ELK-005571?logo=elasticstack&logoColor=white"/> <img src="https://img.shields.io/badge/-DataDog-632CA6?logo=datadog&logoColor=white"/> <img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white"/>
 
-CI/CD: <img src="https://img.shields.io/badge/-Drone-212121?logo=drone&logoColor=white"/> <img src="https://img.shields.io/badge/-Harness-212121"/> <img src="https://img.shields.io/badge/-Github Actions-2088FF?logo=githubactions&logoColor=white"/>
+CI/CD: <img src="https://img.shields.io/badge/-Drone-212121?logo=drone&logoColor=white"/> <img src="https://img.shields.io/badge/-Harness-212121"/> <img src="https://img.shields.io/badge/-Github Actions-2088FF?logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/-Argo-EF7B4D?logo=argo&logoColor=white"/>
 
 Test: <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white"/> <img src="https://img.shields.io/badge/-Junit5-25A162?logo=junit5&logoColor=white"/> <img src="https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white"/>
 
 ## History   
+- oliveyoung Global <sub><sup>Software Engineer (2024.06 ~ )</sup></sub>  
 - class101 <sub><sup>Software Engineer (2021.12 ~ 2024.03)</sup></sub>  
 - Deepromeet - 10th <sub><sup>FE (2021.09 ~ 2021.12)</sup></sub>   
 - 우아한형제들 - 우아한테크캠프 4기 <sub><sup>FE intern (2021.07 ~ 2021.08)</sup></sub>   
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhancheo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=cliqz.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## Contribute
 
-[Atlantis Helm Charts](https://github.com/runatlantis/helm-charts/pull/414)
+[[Atlantis Helm Charts](https://github.com/runatlantis/helm-charts/pull/414)](https://github.com/runatlantis/helm-charts/pull/414)   
+[[Bitnami/Charts](https://github.com/bitnami/charts/pull/32969)](https://github.com/bitnami/charts/pull/32969)
