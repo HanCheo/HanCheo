@@ -59,6 +59,6 @@ Test: <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=wh
 
 
 ## Contribute
-
-[[Atlantis Helm Charts](https://github.com/runatlantis/helm-charts/pull/414)](https://github.com/runatlantis/helm-charts/pull/414)   
-[[Bitnami/Charts](https://github.com/bitnami/charts/pull/32969)](https://github.com/bitnami/charts/pull/32969)
+[Freelens](https://github.com/freelensapp/freelens) - (https://github.com/freelensapp/freelens/pull/776)   
+[Atlantis Helm Charts](https://github.com/runatlantis/helm-charts) - (https://github.com/runatlantis/helm-charts/pull/414)   
+[Bitnami/Charts](https://github.com/bitnami/charts) - (https://github.com/bitnami/charts/pull/32969)
