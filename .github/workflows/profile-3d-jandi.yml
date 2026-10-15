@@ -10,11 +10,28 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: HanCheo/github-profile-3d-contrib@v0.0.1
+      - uses: actions/checkout@v4
+      - name: Check out pinned profile generator
+        uses: actions/checkout@v4
+        with:
+          repository: HanCheo/github-profile-3d-contrib
+          ref: 7e3d91d9c7e8608f811496c0c8d9ede321aee684
+          path: .profile-3d-generator
+      - name: Apply all-language renderer
+        run: git -C .profile-3d-generator apply "$GITHUB_WORKSPACE/.github/profile-3d-all-languages.patch"
+      - name: Build profile generator
+        working-directory: .profile-3d-generator
+        env:
+          NODE_OPTIONS: --openssl-legacy-provider
+        run: npm ci && npm run build
+      - name: Generate profile charts
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+        run: node .profile-3d-generator/dist/index.js "$USERNAME"
+      - name: Remove temporary generator checkout
+        if: always()
+        run: rm -rf .profile-3d-generator
       - name: Commit & Push
         run: |
           git config user.name Moby
