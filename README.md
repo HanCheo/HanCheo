@@ -1,22 +1,24 @@
 ## HanCheol-Kim <img src="https://emoji.slack-edge.com/T02HJLNUN9J/60fps_parrot/2ebed6fd488cf610.gif" width=40 />
 
-- **Software Engineer**   
-- Like [Coffee, Listen Music]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg">
+  <img alt="3D contribution calendar and repository language chart" src="profile-3d-contrib/profile-green.svg">
+</picture>
 
-## History   
-- Oliveyoung Global <sub><sup>Software Engineer (2024.06 ~ )</sup></sub>  
+- **Software Engineer**   
+- Like Coffee
+
+## History  
+- Oliveyoung Retail Media <sub><sup>Software Engineer (2026.10 ~ )</sup></sub>   
+- Oliveyoung Global <sub><sup>Software Engineer (2024.06 ~ 2026.10)</sup></sub>  
 - class101 <sub><sup>Software Engineer (2021.12 ~ 2024.03)</sup></sub>  
 - Deepromeet - 10th <sub><sup>FE (2021.09 ~ 2021.12)</sup></sub>   
 - 우아한형제들 - 우아한테크캠프 4기 <sub><sup>FE intern (2021.07 ~ 2021.08)</sup></sub>   
 
-
 ## Contribute
 
 ### Upstream open-source pull requests
-
-Verified snapshot as of 2026-10-15. These 16 pull requests are authored in
-third-party open-source projects (9 merged, 3 open, and 4 closed without
-merging).
 
 | Project | Pull request | State |
 | --- | --- | --- |
@@ -28,13 +30,6 @@ merging).
 | [OneUptime](https://github.com/OneUptime/oneuptime) | [#2528 — Load specs for volume autoscaler lists](https://github.com/OneUptime/oneuptime/pull/2528) | Merged |
 | [OneUptime](https://github.com/OneUptime/oneuptime) | [#2542 — Improve metric and chart layout](https://github.com/OneUptime/oneuptime/pull/2542) | Merged |
 | [OneUptime](https://github.com/OneUptime/oneuptime) | [#2544 — Preserve custom IN filter values in logs](https://github.com/OneUptime/oneuptime/pull/2544) | Merged |
-| [OneUptime](https://github.com/OneUptime/oneuptime) | [#2446 — Fix policy-scoped on-call user overrides](https://github.com/OneUptime/oneuptime/pull/2446) | Closed (unmerged) |
-| [OneUptime](https://github.com/OneUptime/oneuptime) | [#2534 — Add ClickHouse cold-tier and telemetry sharding support](https://github.com/OneUptime/oneuptime/pull/2534) | Closed (unmerged) |
-| [OneUptime](https://github.com/OneUptime/oneuptime) | [#2572 — Improve first-page load performance](https://github.com/OneUptime/oneuptime/pull/2572) | Closed (unmerged) |
-| [OneUptime](https://github.com/OneUptime/oneuptime) | [#3099 — Add native AWS Bedrock LLM provider](https://github.com/OneUptime/oneuptime/pull/3099) | Closed (unmerged) |
-| [Percona PMM](https://github.com/percona/pmm) | [#5371 — Add RDS assume role support](https://github.com/percona/pmm/pull/5371) | Open |
-| [Percona Grafana](https://github.com/percona/grafana) | [#901 — Add RDS assume role field](https://github.com/percona/grafana/pull/901) | Open |
-| [Percona PMM submodules](https://github.com/Percona-Lab/pmm-submodules) | [#4357 — Build the RDS assume role feature](https://github.com/Percona-Lab/pmm-submodules/pull/4357) | Open |
 | [Super Productivity](https://github.com/super-productivity/super-productivity) | [#8865 — Support multiple Google Calendar accounts](https://github.com/super-productivity/super-productivity/pull/8865) | Merged |
 
 ### Other open-source activity
@@ -58,37 +53,8 @@ Issue and pull-request discussions, separate from authored work above:
 <details>
 <summary>Personal open-source projects (separate from upstream contributions)</summary>
 
-- [lite-queen #1](https://github.com/HanCheo/lite-queen/pull/1) and [#2](https://github.com/HanCheo/lite-queen/pull/2) (merged); [#3](https://github.com/HanCheo/lite-queen/pull/3) (closed, unmerged)
+- [lite-queen #1](https://github.com/HanCheo/lite-queen/pull/1) and [#2](https://github.com/HanCheo/lite-queen/pull/2) (merged)
 - [atlnatis-helm-charts #1](https://github.com/HanCheo/atlnatis-helm-charts/pull/1) (merged; related upstream change is [runatlantis/helm-charts #414](https://github.com/runatlantis/helm-charts/pull/414), counted only above)
 - [mobilog](https://github.com/HanCheo/mobilog) (MIT personal project)
-
-</details>
-
-## 3D contribution language chart
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg">
-  <img alt="3D contribution calendar and repository language chart" src="profile-3d-contrib/profile-green.svg">
-</picture>
-
-Chart labels represent each repository's primary language in GitHub's
-contribution data, not the languages in files changed by the author.
-
-<details>
-<summary>Chart methodology</summary>
-
-The scheduled workflow renders every repository-primary language returned by
-GitHub's `commitContributionsByRepository` data; no top-five language cap is
-applied.
-
-Commits from repositories without language data (or outside the returned
-repository window) remain visible as `Unknown`. The language legend uses
-multiple columns in a dedicated panel below the calendar for full charts, and
-the pie-only/full canvas expands vertically as needed so low-share languages
-remain readable. The generator's contribution-repository query remains
-limited to GitHub's 100 returned repositories, while `MAX_REPOS` controls
-separate fork/star stats. The calendar and commit totals are GitHub's current
-contribution window.
 
 </details>
