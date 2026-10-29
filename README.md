@@ -41,4 +41,4 @@ Authored issues:
 
 ### Certificate
 
-- [Kubestronaut — The Linux Foundation](https://www.credly.com/badges/290bcb8f-8ac4-41e5-a370-d424f9fb6d73)
+- [<img src="profile-3d-contrib/kubestronaut-horizontal-color.svg" alt="Kubestronaut — The Linux Foundation" width="120">](https://www.credly.com/badges/290bcb8f-8ac4-41e5-a370-d424f9fb6d73)
